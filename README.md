@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tahmid</h1>
-<h3 align="left">
+
+
+
+<h1 align="left">
 
 
 <p align="left">
@@ -9,9 +12,9 @@ Agile, visionary, and exceptionally driven thought leader with unprecedented tim
 Goal-focused and strategic-minded with balance of tech expertise and business leadership; inspirational leader and known for leading and engaging remarkable efficient and energetic teams. Passion for directing transformation IT projects and initiatives that position firm for tremendous results in highly competitive environment; notable excellence in constructing project roadmaps in compliance with key requirements, expectations, and top-notch practices. Impressive record in delivering descriptive and crystal-clear IT solutions that meet current and future business needs; extremely talented at connecting dots among business, technology, and profit. Champion with core aptitude for achieving double-digit growth by instituting business-concentrated rich plans and adopting new technologies. Detailed-oriented master problem solver with robust acumen for rendering unparalleled IT, application, and desktop support that dramatically improve customer satisfaction.
 </p>
   
-</h3>
+</h1>
 
-<h3 align="left">
+<h1 align="left">
   
 Areas of Expertise:-
   
@@ -30,7 +33,7 @@ Areas of Expertise:-
 • Budget Management
 • Excellent Customer Service
 
-</h3>
+</h1>
 
 <h3 align="left">
   
