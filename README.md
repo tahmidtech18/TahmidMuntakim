@@ -28,11 +28,6 @@ HIPS, Firewalls, Email Gateways, Wireless Access Points, Aryaka Networks
 Monitoring & Analytics:
 
 Zabbix, Red Hat Insights, Kaggle (16GB Free GPU), SANnav (AI-enabled SAN monitoring)
-Current Endeavors:
-🌟 Project Andromeda: Enhancing DBSS infrastructure manageability and visibility with resource optimization, compliance adherence, AI insights, and automation.
-⚙️ Building AI automation tools for user management across 3000+ Linux hosts.
-📡 Expanding Huawei Cloud Infrastructure with a focus on scalability and post-migration efficiency.
-🌐 Centralized IAM solution deployment for streamlined user and OS management.
 
 Connect With Me:
 Twitter: @muntakim009
